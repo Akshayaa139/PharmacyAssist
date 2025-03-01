@@ -1,0 +1,20 @@
+
+        ==============================
+        PharmAssist Pro - Invoice
+        ==============================
+        Order ID: b9192a1e-3249-4a15-aceb-fa66786f1675
+        Patient Name: Marta Sharapova
+        Doctor Name: John Smith
+        Date: 2025-02-26 07:12:59
+        ------------------------------
+        Prescribed Medicines:
+        
+        - Lialda (2.4 gram)
+          Frequency: Directions:
+          Duration: N/A
+          Price: $12.99 x 1 = $12.99
+        
+        ------------------------------
+        Total Price: $12.99
+        ==============================
+        
